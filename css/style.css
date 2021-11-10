@@ -1095,11 +1095,9 @@ a span {
 	box-sizing: border-box;
 }
 
-.form__btn {
-	display: none;
-}
-
 .form__label {
+	outline: none;
+	border: none;
 	position: absolute;
 	width: 212px;
 	height: 47px;
