@@ -448,7 +448,7 @@ a span {
 
 .stage__intro {
 	position: absolute;
-	
+	width: 90px;
 	height: 19px;
 	top: 957px;
 

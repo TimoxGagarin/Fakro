@@ -1,7 +1,6 @@
 <?php
 	$config = array(
-		'email' => 'name_mail@gmail.ru',
-		'sender_email' => 'name_mail2@gmail.ru',
+		'email' => 'cn12097@fakro-moscow.ru',
 		'phone' => '+1(234) 567-89-10'
 	);
 ?>
