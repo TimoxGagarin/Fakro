@@ -1,0 +1,245 @@
+body {
+	font-family: 'Lato', sans-serif;
+	text-decoration: none;
+	letter-spacing: 0.095em;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 19px;
+	white-space: nowrap;
+}
+
+ul{
+	list-style-type: none;
+}
+
+label{
+	cursor: pointer;
+}
+
+p:hover {
+	transition: 0.5s;
+	color: #50AC25; 
+}
+
+a span {
+	float: left;
+	color: #1B1B20;
+	padding-top: 11px;
+	margin-left: 9px;
+}
+
+.logo {
+	padding-top: 15px;
+}
+
+.logo__item {
+	font-size: 14px;
+	line-height: 17px;
+	margin-left: 53px;
+}
+
+.header__img {
+	margin-top: 24px;
+	margin-right: 12px;
+	width: 37px;
+	height: 37px;
+}
+
+.header__info {
+	margin-top: 34px;
+	color: black; 
+}
+
+
+p .phone__title:hover {
+	transition: 0.5s;
+	color: #50AC25;
+}
+
+.btn {
+	width: 212px;
+	height: 47px;
+	border-radius: 0;
+	float: right;
+	background: #50AC25;
+	margin-top: 20px;
+	margin-left: 35px;
+}
+
+.btn:hover {
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	transition: 0.5s;
+}
+
+.roof_windows {
+	margin-top: 80px;
+}
+
+.offer-title {
+	white-space: nowrap;
+	font-size: 46px;
+	margin-bottom: 20px;
+}
+
+.offer-intro {
+	font-size: 24px;
+	color: #50AC25;
+	margin-bottom: 30px;
+}
+
+.window {
+	width: 570px;
+	height: 450px;
+}
+
+.characteristic {
+	margin-top: 95px;
+}
+
+.characteristic__title {
+	margin-bottom: 20px;
+	font-size: 24px;
+	color: #50AC25;
+}
+
+.collapsible {
+	margin-bottom: 30px;
+	width: 256px;
+	height: 39px;
+	border: 1px solid #50AC25;
+	box-sizing: border-box;
+	
+}
+
+.collapsible:hover {
+	transition: 0.5s;
+	color: #50AC25 ;
+}
+
+
+.subtitle {
+	font-size: 24px;
+	color: #50AC25;
+}
+
+.size__title {
+	margin-left: -7.5px;
+}
+
+.size__intro__label {
+	padding-top: 11px;
+	padding-left: 9px;
+	padding-right: 9px;
+	padding-bottom: 10px;
+	border: 1px solid #50AC25;
+	margin: auto 7.5px;
+}
+
+.size__intro__label:hover {
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	transition: 0.5s;
+}
+
+.size__btn {
+	display: none;
+}
+
+.size__intro {
+	display: none;
+	padding-top: 11px;
+	padding-left: 9px;
+	padding-right: 9px;
+	padding-bottom: 10px;
+	margin: auto 7.5px;
+	border: 1px solid #50AC25;
+}
+
+.size__intro:checked {
+	transition: 0.5s;
+	border: 10px solid #50AC25;
+}
+
+.size__row {
+	display: flex;
+	margin: 15px auto;
+}
+
+.price {
+	margin-top: 30px;
+	font-size: 24px;
+	line-height: 29px;
+	color: #50AC25;
+}
+
+.price span {
+	margin-top: -21px;
+	font-size: 46px;
+	line-height: 55px;
+	color: #1B1B20;
+}
+
+.kits__outline__btn {
+	width: 30px;
+	height: 30px;
+	border: 2px solid #50AC25;
+	box-sizing: border-box;
+}
+
+.kits__title {
+	font-size: 40px;
+	line-height: 48px;
+	color: #1B1B20;
+}
+
+.kits__intro {
+	font-size: 24px;
+	line-height: 29px;
+	color: #50AC25;
+}
+
+.iphone {
+	width: 435px;
+	height: 898px;
+}
+
+.list__title {
+	font-size: 20px;
+	line-height: 24px;
+	color: #50AC25;
+}
+
+.input__data{
+	font-family: 'Lato', sans-serif;
+	border: 1px solid #50AC25;
+	width: 270px;
+    height: 40px;
+	box-sizing: border-box;
+}
+
+.form__label {
+	outline: none;
+	border: none;
+	background: #50AC25;
+	color: #FFFFFF;
+}
+
+.form__submit:hover {
+	transition: 0.5s;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.footer {
+	width: 100%;
+	height: 0px;
+	border: 2.5px solid #50AC25;
+}
+
+.footer__title {
+	font-size: 18px;
+	line-height: 22px;
+	text-transform: uppercase;
+}
+
+.phone__1 {
+	left: 84%;
+}
