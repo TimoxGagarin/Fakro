@@ -145,6 +145,7 @@ p .phone__title:hover {
 }
 
 .size__intro {
+	box-sizing: border-box;
 	display: none;
 	padding-top: 11px;
 	padding-left: 9px;
@@ -156,12 +157,12 @@ p .phone__title:hover {
 
 .size__intro:checked {
 	transition: 0.5s;
-	border: 10px solid #50AC25;
+	border: 1px solid #50AC25;
 }
 
 .size__row {
 	display: flex;
-	margin: 15px auto;
+	margin: 30px 0;
 }
 
 .price {
@@ -216,9 +217,11 @@ p .phone__title:hover {
 	box-sizing: border-box;
 }
 
-.form__label {
+.form__submit {
 	outline: none;
 	border: none;
+	width: 270px;
+    height: 40px;
 	background: #50AC25;
 	color: #FFFFFF;
 }

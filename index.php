@@ -91,61 +91,59 @@
 							</p>
 							<div class="size__title">
 								<div class="size__row">
-									<div class="size_btn">
-										<input class="size__intro" type="radio" name="dimension" value="55x78 см">
-										<label class="size__intro__label" for="size__intro"> <span>55x78 см</span> </label>
-									</div>
-									<div class="size_btn">
+									<label class="size_btn">
+										<input class="size__intro" type="radio" name="dimension" value="55x78 см" required>
+										<span class="size__intro__label">55x78 см</span>
+									</label>
+									<label class="size_btn">
 										<input class="size__intro" type="radio" name="dimension" value="55x98 см">
-										<label class="size__intro__label" for="size__intro"> <span>55x98 см</span> </label>
-									</div>
-									<div class="size_btn">
+										<span class="size__intro__label">55x98 см</span>
+									</label>
+									<label class="size_btn">
 										<input class="size__intro" type="radio" name="dimension" value="66x98 см">
-										<label class="size__intro__label" for="size__intro"> <span>66x98 см</span> </label>
-									</div>
-									<div class="size_btn">
+										<span class="size__intro__label">66x98 см</span>
+									</label>
+									<label class="size_btn">
 										<input class="size__intro" type="radio" name="dimension" value="66x118 см">
-										<label class="size__intro__label" for="size__intro"> <span>66x118 см</span> </label>
-									</div>
-									<div class="size_btn">
+										<span class="size__intro__label">66x118 см</span>
+									</label>
+									<label class="size_btn">
 										<input class="size__intro" type="radio" name="dimension" value="78x98 см">
-										<label class="size__intro__label" for="size__intro"> <span>78x98 см</span> </label>
-									</div>
+										<span class="size__intro__label">78x98 см</span>
+									</label>
 								</div>
-
 								<div class="size__row">
-									<div class="size_btn">
+									<label class="size_btn">
 										<input class="size__intro" type="radio" name="dimension" value="78x118 см">
-										<label class="size__intro__label" for="size__intro"> <span>78x118 см</span> </label>
-									</div>									
-									<div class="size_btn">
+										<span class="size__intro__label">78x118 см</span>
+									</label>
+									<label class="size_btn">
 										<input class="size__intro" type="radio" name="dimension" value="78x140 см">
-										<label class="size__intro__label" for="size__intro"> <span>78x140 см</span> </label>
-									</div>	
-									<div class="size_btn">
+										<span class="size__intro__label">78x140 см</span>
+									</label>
+									<label class="size_btn">
 										<input class="size__intro" type="radio" name="dimension" value="78x160 см">
-										<label class="size__intro__label" for="size__intro"> <span>78x160 см</span> </label>
-									</div>
-									<div class="size_btn">
+										<span class="size__intro__label">78x160 см</span>
+									</label>
+									<label class="size_btn">
 										<input class="size__intro" type="radio" name="dimension" value="94x118 см">
-										<label class="size__intro__label" for="size__intro"> <span>94x118 см</span> </label>
-									</div>
-									<div class="size_btn">
+										<span class="size__intro__label">94x118 см</span>
+									</label>
+									<label class="size_btn">
 										<input class="size__intro" type="radio" name="dimension" value="94x140 см">
-										<label class="size__intro__label" for="size__intro" > <span>94x140 см</span> </label>
-									</div>
-								</div>
-
+										<span class="size__intro__label">94x140 см</span>
+									</label>
+								</div>	
 								<div class="size__row">
-									<div class="size_btn">
+									<label class="size_btn">
 										<input class="size__intro" type="radio" name="dimension" value="114x118 см">
-										<label class="size__intro__label" for="size__intro" > <span>114x118 см</span> </label>
-									</div>
-									<div class="size_btn">
+										<span class="size__intro__label">114x118 см</span>
+									</label>
+									<label class="size_btn">
 										<input class="size__intro" type="radio" name="dimension" value="114x140 см">
-										<label class="size__intro__label" for="size__intro" > <span>114x140 см</span> </label>
-									</div>
-								</div>
+										<span class="size__intro__label">114x140 см</span>
+									</label>	
+								</div>	
 							</div>
 							<p class="price d-flex">
 								Цена: <span class="price__text">0₽</span>
@@ -324,59 +322,58 @@
 				</div>
 				<div class="size__title">
 					<div class="size__row">
-						<div class="size_btn">
+						<label class="size_btn">
 							<input class="size__intro" type="radio" name="size" value="55x78 см" required>
-							<label class="size__intro__label"> <span>55x78 см</span> </label>
-						</div>
-						<div class="size_btn">
+							<span class="size__intro__label">55x78 см</span>
+						</label>
+						<label class="size_btn">
 							<input class="size__intro" type="radio" name="size" value="55x98 см">
-							<label class="size__intro__label"> <span>55x98 см</span> </label>
-						</div>
-						<div class="size_btn">
+							<span class="size__intro__label">55x98 см</span>
+						</label>
+						<label class="size_btn">
 							<input class="size__intro" type="radio" name="size" value="66x98 см">
-							<label class="size__intro__label"> <span>66x98 см</span> </label>
-						</div>
-						<div class="size_btn">
+							<span class="size__intro__label">66x98 см</span>
+						</label>
+						<label class="size_btn">
 							<input class="size__intro" type="radio" name="size" value="66x118 см">
-							<label class="size__intro__label"> <span>66x118 см</span> </label>
-						</div>
-						<div class="size_btn">
+							<span class="size__intro__label">66x118 см</span>
+						</label>
+						<label class="size_btn">
 							<input class="size__intro" type="radio" name="size" value="78x98 см">
-							<label class="size__intro__label"> <span>78x98 см</span> </label>
-						</div>
+							<span class="size__intro__label">78x98 см</span>
+						</label>
 					</div>
 					<div class="size__row">
-						<div class="size_btn">
+						<label class="size_btn">
 							<input class="size__intro" type="radio" name="size" value="78x118 см">
-							<label class="size__intro__label"> <span>78x118 см</span> </label>
-						</div>
-						<div class="size_btn">
+							<span class="size__intro__label">78x118 см</span>
+						</label>
+						<label class="size_btn">
 							<input class="size__intro" type="radio" name="size" value="78x140 см">
-							<label class="size__intro__label"> <span>78x140 см</span> </label>
-						</div>
-						<div class="size_btn">
+							<span class="size__intro__label">78x140 см</span>
+						</label>
+						<label class="size_btn">
 							<input class="size__intro" type="radio" name="size" value="78x160 см">
-							<label class="size__intro__label"> <span>78x160 см</span> </label>
-						</div>
-						<div class="size_btn">
+							<span class="size__intro__label">78x160 см</span>
+						</label>
+						<label class="size_btn">
 							<input class="size__intro" type="radio" name="size" value="94x118 см">
-							<label class="size__intro__label"> <span>94x118 см</span> </label>
-						</div>
-						<div class="size_btn">
-							<input class="size__intro" type="radio" name="size">
-							<label class="size__intro__label"> <span>94x140 см</span> </label>
-						</div>
+							<span class="size__intro__label">94x118 см</span>
+						</label>
+						<label class="size_btn">
+							<input class="size__intro" type="radio" name="size" value="94x140 см">
+							<span class="size__intro__label">94x140 см</span>
+						</label>
 					</div>	
 					<div class="size__row">
-						<div class="size_btn">
+						<label class="size_btn">
 							<input class="size__intro" type="radio" name="size" value="114x118 см">
-							<label class="size__intro__label" for="size__btn23"> <span>114x118 см</span> </label>
-						</div>
-
-						<div class="size_btn">
+							<span class="size__intro__label">114x118 см</span>
+						</label>
+						<label class="size_btn">
 							<input class="size__intro" type="radio" name="size" value="114x140 см">
-							<label class="size__intro__label" for="size__btn24"> <span>114x140 см</span> </label>
-						</div>	
+							<span class="size__intro__label">114x140 см</span>
+						</label>	
 					</div>	
 				</div>				
 			</div>

@@ -31,7 +31,7 @@
 						<input class="input__data" type="telephone" placeholder="+7 ___ ___ __ __" name="phone" required>	
 					</div>
 				</div>
-				<input class="form__submit" type="submit" name="send_mail" formaction="/" formmethod="POST" value="ПОЛУЧИТЬ РАСЧЕТ">
+				<input class="form__submit" type="submit" name="get_feedback" formaction="/" formmethod="POST" value="ПОЛУЧИТЬ РАСЧЕТ">
 			</div>
 		</section>
 	</form>
